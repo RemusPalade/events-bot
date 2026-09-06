@@ -13,7 +13,7 @@ const CHECK_INTERVAL_MS = 60 * 1000;
 // Remove events you don't want alerts for
 const ALERT_EVENTS = new Set([
   "White Rabbit",
-  // "Fire Flame Ghost",
+  "Fire Flame Ghost",
   // "Blood Castle",
   // "Kanturu Event",
   // "Goat",
@@ -23,7 +23,7 @@ const ALERT_EVENTS = new Set([
   // "Illus.Temple",
   // "Devil Square",
   // "TvT event",
-  // "Skeleton King",
+  "Skeleton King",
   // "Red Dragon",
   "Golden Invasion",
   // "White Wizard",
