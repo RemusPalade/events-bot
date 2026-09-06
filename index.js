@@ -133,7 +133,4 @@ client.once("clientReady", () => {
   checkEvents();
   setInterval(checkEvents, CHECK_INTERVAL_MS);
 });
-
-console.log(process.env.DISCORD_TOKEN);
-
 client.login(process.env.DISCORD_TOKEN);
