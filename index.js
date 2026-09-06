@@ -48,7 +48,7 @@ const ALERT_EVENTS = new Set([
   // "Arka War",
   // "Ferea",
   // "Kalima Kundun",
-  // "Moss Merch.",
+  "Moss Merch.",
 ]);
 
 const activeAlerts = new Map();
